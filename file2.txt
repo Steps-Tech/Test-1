@@ -15,5 +15,5 @@ sudo apt-get install jenkins -y
 ###
 
 
-This file is used for Jenkins installation 
+#This file is used for Jenkins installation 
 
